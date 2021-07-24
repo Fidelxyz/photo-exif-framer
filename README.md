@@ -6,12 +6,12 @@ A Python script that automatically adds border and EXIF information to images.
 
 ## 示例 / Example
 
-![](https://cdn.jsdelivr.net/gh/Fidelxyz/PicBed@latest/20210724155409.jpg)
+![](https://cdn.jsdelivr.net/gh/Fidelxyz/PicBed@latest/20210724220528.jpg)
 
 ## 用法 / Usage
 
 ```bash
-python photo-exif-framer <inputfile> [outputfile]
+python photo-exif-framer.py <inputfile> [outputfile]
 ```
 
 ### 参数 / Parameters
@@ -36,7 +36,7 @@ python photo-exif-framer <inputfile> [outputfile]
 
 **使用时请遵守相关协议。**
 
-**Please observe the relevant agreement when using it. **
+**Please observe the relevant agreement when using it.**
 
 `HarmonyOS Sans SC` 和 `HarmonyOS Sans Condensed` 在本项目中被用作默认字体。
 
